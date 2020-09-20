@@ -1,0 +1,10 @@
+.container {
+  background-color: rgba(216, 214, 214, 0.75);
+  border-radius: 40px;
+  box-shadow: 20px  rgba(66, 65, 65, 0.473);
+  width: 90%;
+}
+
+.sub-container {
+  width: 100%;
+}

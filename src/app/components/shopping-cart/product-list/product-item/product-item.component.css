@@ -1,0 +1,11 @@
+.card-image {
+  object-fit: contain;
+  height: 270px;
+}
+
+.product-box {
+  margin: 20px 20px !important;
+  border-radius: 20px;
+  width: 260px;
+  height: 452px;
+}

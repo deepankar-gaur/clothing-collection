@@ -1,0 +1,15 @@
+.about-container {
+  background-color: rgba(206, 204, 201, 0.61);
+  border-radius: 20px;
+  padding: 10px 20px;
+}
+
+.heading {
+  font-size: 1.9em;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.body-text {
+  color: rgb(51, 51, 51);
+}
